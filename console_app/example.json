@@ -6,7 +6,7 @@
             "FirstName": "John",
             "LastName": "Doe",
             "Login": "john10",
-            "Age": 43,
+            "Age": "43",
             "Address": {
                 "Street": "Downing Street 10",
                 "City": "London",

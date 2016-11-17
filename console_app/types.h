@@ -8,7 +8,7 @@
 struct Node
 {
     std::string         name_;
-    std::string         value_;
+    std::vector<std::string> value_;
     std::vector<Node>   child_;
 };
 
